@@ -59,8 +59,8 @@ global.stickauth = `By Mono`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.nameown1 = 'Mono' // Optional
-global.nameown2 = 'Mono' // Optional
-global.thumb = 'https://i.postimg.cc/NFFZZWF2/5605307.jpg' // gambar di menu
+global.nameown2 = 'Mono Deviluke' // Optional
+global.thumb = 'https://imgur.com/a/pFQZdeX' // gambar di menu
 global.leave = 'https://i.postimg.cc/yxvn10Ls/ssstik-io-1689170610318.jpg' /// Untuk BG leave
 
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
